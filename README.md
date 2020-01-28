@@ -1,12 +1,8 @@
-# **{ Project Title }**
+# Biome Eye
 
-**{ Paragraph description with proper punctuation. }**
+Biome Eye is a continuous enviroment monitoring software. The software collectes data through vaious sensors attached to the system and streams them locally for other processes to access.
 
-**!{ Non project assets should be kept in 'res/repo'. }**
-
-**!{ Include a project icon|banner if present. }**
-![project logo|banner](res/repo/banner-crown.png "{ Logo description }")
-
+![project logo|banner](res/repo/banner-biome-eye.png "Biome Eye banner")
 
 ## Getting Started
 
@@ -61,8 +57,8 @@ Software specifications & design documents can be found in the [wiki](/wiki).
 
 ## See Also
 
-- **{ Title } - { link to relevant software/guide/doumentation }**
-- **{ Title } - { link to relevant software/guide/doumentation }**
+- **Ecosphere Sentinel- https://github.com/TKUCSC/ecosphere-sentinel**
+- **Biome Link - https://github.com/TKUCSC/biome-link**
 
 ## Contributing
 
