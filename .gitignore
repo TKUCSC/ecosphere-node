@@ -2,6 +2,8 @@
 # Created by https://www.gitignore.io/api/git,macos,windows,linux,node,python,java,dart,flutter,c,c++,csharp,ruby,android,visualstudio,visualstudiocode,eclipse,netbeans,sublimetext,intellij,vim,xcode,codeblocks,pycharm,react,reactnative,nuxt
 # Edit at https://www.gitignore.io/?templates=git,macos,windows,linux,node,python,java,dart,flutter,c,c++,csharp,ruby,android,visualstudio,visualstudiocode,eclipse,netbeans,sublimetext,intellij,vim,xcode,codeblocks,pycharm,react,reactnative,nuxt
 
+config.go
+
 ### Android ###
 # Built application files
 *.apk
