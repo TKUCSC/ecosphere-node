@@ -2,7 +2,7 @@
 
 Biome Eye is a continuous enviroment monitoring software. The software collectes data through vaious sensors attached to the system and streams them locally for other processes to access.
 
-![project logo|banner](res/repo/banner-biome-eye.png "Biome Eye banner")
+![project logo|banner](res/repo/banner-ecosphere-node.png "Ecosphere Node Banner")
 
 ## Getting Started
 
