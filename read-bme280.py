@@ -1,4 +1,3 @@
-#!/bin/bash python
 import bme280
 import smbus2
 

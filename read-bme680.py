@@ -1,4 +1,3 @@
-#!/bin/bash python
 import bme680
 
 # configuration settings
