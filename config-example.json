@@ -1,0 +1,5 @@
+{
+	"ID": "NODE_ID",
+	"TARGET": "https://EXAMPLE_URL",
+	"SENSOR_MODEL": "bme280"
+}
