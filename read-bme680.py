@@ -21,7 +21,7 @@ try:
         humidity  = sensor.data.humidity
         pressure  = sensor.data.pressure
         ambient_temperature = sensor.data.temperature
-        print(humidity, pressure, ambient_temperature, sep="-")
+        print(humidity, pressure, ambient_temperature)
 
 except:
     print("err: read error")
